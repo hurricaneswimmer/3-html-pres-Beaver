@@ -1,0 +1,111 @@
+h1{
+    font-family: "Libre Franklin", sans-serif;
+    font-weight:normal;
+    color:white;
+}
+
+#fs1{
+    margin-left:200px;
+    margin-top:200px;
+    background-color:rgb(0,0,0,.5);
+}
+
+#fs2{
+    margin-left:800px;
+    margin-top:250px;
+    background-color:rgb(0,0,0,.6);
+}
+
+#fs3-1{
+    margin-top:50px;
+    margin-left:50px;
+    background-color:rgb(0,0,0,.6);
+}
+
+#fs3-2{
+    margin-top:500px;
+    margin-right:30px;
+    background-color:rgb(0,0,0,.6);
+}
+
+#fs4-1{
+    margin-top:50px;
+    margin-left:50px;
+    background-color: rgb(0,0,0,.5);
+}
+
+#fs4-2{
+    margin-top: 50px;
+    margin-left:400px;
+    background-color: rgb(0,0,0,.5);
+}
+
+#fs5-1{
+    margin-top:100px;
+    margin-left:100px;
+    background-color: rgb(0,0,0,.5);
+}
+
+#fs5-2{
+    margin-top:0px;
+    margin-left:1000px;
+    background-color: rgb(0,0,0,.5);
+}
+
+#fs6{
+    margin-top:100px;
+    margin-left:50px;
+    background-color: rgb(0,0,0,.7);
+}
+
+#fs7{
+    margin-top:250px;
+    margin-left:750px;
+    background-color: rgb(0,0,0,.5);
+}
+
+#fs8{
+    margin-top:100px;
+    margin-left:500px;
+    background-color: rgb(0,0,0,.6);
+}
+
+#fs9{
+    margin-top:300px;
+    margin-left:500px;
+    background-color: rgb(0,0,0,.5);
+}
+
+.mySlides{
+    display: none;
+}
+
+body, html {
+    height: 100%;
+  }
+.fs{
+/* Full height */
+height: 100%;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.fs-video {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+figcaption{
+    color:white;
+    font-family:"Libre Franklin";
+    margin-left:25px;
+}
